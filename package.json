@@ -1,0 +1,28 @@
+{
+  "name": "hobson-plugin-say",
+  "version": "1.0.0",
+  "description": "example hobson plugin to learn and build off",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThatCrazyIrishGuy/hobson-plugin-say.git"
+  },
+  "keywords": [
+    "hobson",
+    "plugin",
+    "example",
+    "say"
+  ],
+  "author": "Darren Britton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThatCrazyIrishGuy/hobson-plugin-say/issues"
+  },
+  "homepage": "https://github.com/ThatCrazyIrishGuy/hobson-plugin-say#readme",
+  "dependencies": {
+    "jsonfile": "^3.0.0"
+  }
+}
