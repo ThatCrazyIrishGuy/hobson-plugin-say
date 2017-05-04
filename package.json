@@ -1,6 +1,6 @@
 {
   "name": "hobson-plugin-say",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "example hobson plugin to learn and build off",
   "main": "index.js",
   "scripts": {
