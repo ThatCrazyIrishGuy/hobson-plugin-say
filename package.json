@@ -24,6 +24,6 @@
   "homepage": "https://github.com/ThatCrazyIrishGuy/hobson-plugin-say#readme",
   "dependencies": {
     "hobson-response-types": "^1.0.0",
-    "jsonfile": "^3.0.0"
+    "jsonfile": "^4.0.0"
   }
 }
